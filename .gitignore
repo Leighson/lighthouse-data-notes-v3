@@ -1,7 +1,9 @@
 # Data
+.exercises
 *.csv
 *.data
 *.pdf
+*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

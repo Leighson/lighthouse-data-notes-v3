@@ -1,7 +1,11 @@
 {
     "cSpell.words": [
+        "appendleft",
         "colour",
+        "dotenv",
         "hashable",
-        "namedtuples"
+        "namedtuple",
+        "namedtuples",
+        "popleft"
     ]
 }
