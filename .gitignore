@@ -1,5 +1,6 @@
 # Data
 .exercises
+.DS_Store
 *.csv
 *.data
 *.pdf
